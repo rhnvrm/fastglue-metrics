@@ -145,3 +145,7 @@ Besides being performant, `VM/metrics` has several improvements and optimisation
 ## LICENSE
 
 See [LICENSE](./LICENSE).
+
+## Requirements
+
+Go 1.26 or newer.
